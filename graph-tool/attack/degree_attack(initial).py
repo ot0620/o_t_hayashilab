@@ -5,5 +5,5 @@ def initial_degree_attack(g,Node):
     degree_attack = [frc for frc in sizes]
     perc = np.array(degree_attack)
     perc = perc / Node
-
+    
     return perc

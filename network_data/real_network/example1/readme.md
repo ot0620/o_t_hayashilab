@@ -1,0 +1,1 @@
+F. Radicchi, Predicting percolation thresholds in networks, Phys. Rev. E 91 (2015) 010801, http://dx.doi.org/10.1103/PhysRevE.91.010801.のSupplemental Material（補足資料）を参照。
